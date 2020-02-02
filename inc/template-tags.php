@@ -116,7 +116,7 @@ function kawi_get_hero_data(){
 		$setting = get_theme_mod( 'kawi_homepage_title' );
 		if ( is_home() || 'site-title' === $setting ) {
 			$data['title'] = esc_html( get_bloginfo( 'name' ) ) ;
-			$data['meta']  = esc_html( get_bloginfo( 'description', 'display' ) );
+			$data['meta']  = esc_html( get_bloginfo( 'description' ) ) ;
 		}
 	}
 

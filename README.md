@@ -1,5 +1,11 @@
 # Kawi
 
+*Note from NB: Page Fault (https://neilbickford.com/blog/) uses the Kawi wordpress theme, but with some small modifications (at the moment, we use a different hero style if the name of the post is too long, since otherwise the CSS translation we apply could result in the text going offscreen). Since Kawi is licensed under the GPL v2, I'm documenting any changes Page Fault makes to the Kawi source code here.*
+
+*For more information about the theme, please see Kawi's original README, below.*
+
+---
+
 Kawi is a solid and clean theme for blogs and any other sites.
 It has clean typography, plenty of white space and puts the emphasis on your content.
 
